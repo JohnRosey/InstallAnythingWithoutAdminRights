@@ -13,12 +13,14 @@ https://dev.to/davidkou/install-anything-without-admin-rights-4p0j
 # Connaitre le PATH 
 Allez dans control Panel -> Users Accounts -> Change my environment variables
 dans le premier carrée il y'a vos variables d’environnement et dans Path vous devez ajouter une nouvelle ligne pour que vos IDE puissent les détecter , peut être avec un redémarrage de l'ordinateur 
+![image](https://user-images.githubusercontent.com/46062396/193335970-af847211-4674-42c6-b4a0-a7e119355d8e.png)
 
 ## Installer Python sans être admin
 
 Télécharger l'installateur de Python sur le site officiel
 puis :
- 
+ ![image](https://user-images.githubusercontent.com/46062396/193336142-0c5d913c-06c5-47ea-8df0-ba6060ae16be.png)
+Puis **Install Now**
 
 ## Installer .net sans Visual studio
 Allez sur : https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-install-script
@@ -37,6 +39,9 @@ Puis dans les variables d'environement donner la localisation du dossier
 ou dans votre IDE donnez sa location plus d'info voir :https://stackoverflow.com/questions/63057245/changing-the-java-home-path-in-vs-code
 exemple:``"java.jdt.ls.java.home":"C:\\Users\\******\\jdk-18.0.2",`` **il faut doubler les \\ dans VScode sinon cela ne marchera pas**
 Dans VScode , allez dans Gérer ->  Paramètres -> Taper ``Java.Home`` dans la bar puis vous modifier dans ``settings.json`` 
+![image](https://user-images.githubusercontent.com/46062396/193335444-fe9dc745-abe8-4634-bb45-3d5410c55e3b.png)
+
+![image](https://user-images.githubusercontent.com/46062396/193335539-e83ff001-5d70-4a83-b0f4-61e0d0b02dc0.png)
 
 ## Petit fichier ps1 a se crée
 
