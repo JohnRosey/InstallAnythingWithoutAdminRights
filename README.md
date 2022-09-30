@@ -1,7 +1,8 @@
 # InstallAnythingWithoutAdminRights
 
 Dans l'environnement de travail Enterprise, vous ne bénéficiez probablement pas des privilèges d'administrateur, mais pour augmenter votre productivité, vous devrez peut-être installer certains kits d'outils logiciels que vous connaissez le mieux.
-
+On ne peut pas simplement installer un logiciel sans droits d'administrateur pour des raisons de sécurité
+Gardez à l'esprit que seules certaines applications peuvent être installées de cette façon.
 # Tout se passe dans C:\Users 
 ``C:\Users\VotreuserName``
 Vous devez connaitre votre PATH qui est par defaut :
